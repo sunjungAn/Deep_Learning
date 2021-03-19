@@ -4,4 +4,4 @@
 **a hands-on environment** : jupyter notebook(service -> amazon sagemaker -> notebook -> jupyter notebook)
 
 ## Practice
-[python_basic]()
+[python_basic](https://github.com/sunjungAn/Deep_Learning/blob/master/1.%20python_basic.ipynb)

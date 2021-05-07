@@ -26,5 +26,5 @@
 + 
 
 ### ver 5
-+ **데이터 정규화시키기(Standardization), Adam사용**
++ **데이터 Noramalization parameter 수정, batch_size = 128수정, 데이터 전처리 수정(padding = 4)**
 + 

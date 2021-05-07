@@ -1,5 +1,6 @@
 
 # Log
+>> https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
 
 ### ver 1 
 + **Dropout, Data augmentation, Weight initialization, Data Normalization, Adam optimizer 적용**
@@ -26,5 +27,5 @@
 + 
 
 ### ver 5
-+ **데이터 Noramalization parameter 수정, batch_size = 128수정, 데이터 전처리 수정(padding = 4)**
++ **batch_size = 128수정, 데이터 전처리 수정(padding = 4), epoch 125로 수정**
 + 

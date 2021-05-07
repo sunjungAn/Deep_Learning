@@ -24,3 +24,7 @@
 + **ver 3의 연장선으로 learning decay를 포함, Adam대신 SGD 채택하여 가장 정확도가 높은 epoch 탐색**
 + ver3에서 높은 정확도가 나오지 않아 Adam말고 SGD를 선택하여 다시 재학습
 + 
+
+### ver 5
++ **데이터 정규화시키기(Standardization), Adam사용**
++ 

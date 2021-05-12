@@ -10,3 +10,6 @@
 
 ## Concept
 [CNN(convolution neural network)]()
+
+## Project
+[CIFAR10 인식도 챌린지]()

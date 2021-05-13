@@ -17,4 +17,4 @@
 ## Project
 [CIFAR10 인식도 챌린지](https://github.com/sunjungAn/Deep_Learning/tree/master/CIFAR10_CNN)
 
-[LeNet-5 MNIST]()
+[LeNet-5 MNIST](https://github.com/sunjungAn/Deep_Learning/blob/master/LeNet_5.ipynb)

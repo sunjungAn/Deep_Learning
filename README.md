@@ -12,7 +12,7 @@
 
 [[실습04]심층 신경망 훈련](https://github.com/sunjungAn/Deep_Learning/tree/master/%5B%EC%8B%A4%EC%8A%B504%5D%EC%8B%AC%EC%B8%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%9B%88%EB%A0%A8)
 ## Concept
-[CNN(convolution neural network)]()
+[CNN(convolution neural network)](https://github.com/sunjungAn/Deep_Learning/tree/master/concept)
 
 ## Project
 [CIFAR10 인식도 챌린지](https://github.com/sunjungAn/Deep_Learning/tree/master/CIFAR10_CNN)

@@ -16,7 +16,7 @@
 
 [[실습05]_합성곱_신경망(1)](https://github.com/sunjungAn/Deep_Learning/blob/master/%5B%EC%8B%A4%EC%8A%B505%5D_%ED%95%A9%EC%84%B1%EA%B3%B1_%EC%8B%A0%EA%B2%BD%EB%A7%9D(1).ipynb)
 
-[[실습05]_transfer ](https://github.com/sunjungAn/Deep_Learning/blob/master/%5B%EC%8B%A4%EC%8A%B505%5D-transfer%20learning.ipynb)
+[[실습05]_transfer learning](https://github.com/sunjungAn/Deep_Learning/blob/master/%5B%EC%8B%A4%EC%8A%B505%5D-transfer%20learning.ipynb)
 ## Concept
 [Tistory Link](https://sunjung.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B3%B5%EB%B6%80/%EB%94%A5%EB%9F%AC%EB%8B%9D)
 

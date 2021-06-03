@@ -10,6 +10,8 @@
 
 [pytorch_basic](https://github.com/sunjungAn/Deep_Learning/blob/master/3.%20pytorch_basic.ipynb)
 
+[MNIST_dataLoad](https://github.com/sunjungAn/Deep_Learning/blob/master/4.MNIST_dataLoad.ipynb)
+
 [[실습01]MLP-행렬곱구현](https://github.com/sunjungAn/Deep_Learning/blob/master/%5B%EC%8B%A4%EC%8A%B501%5DMLP-%ED%96%89%EB%A0%AC%EA%B3%B1%EA%B5%AC%ED%98%84.ipynb)
 
 [[실습02]MLP-학습](https://github.com/sunjungAn/Deep_Learning/blob/master/%5B%EC%8B%A4%EC%8A%B502%5DMLP-%ED%95%99%EC%8A%B5(2).ipynb)

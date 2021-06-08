@@ -29,4 +29,4 @@
 ## Project
 [CIFAR10 인식도 챌린지](https://github.com/sunjungAn/Deep_Learning/tree/master/CIFAR10_CNN)
 
-[Turtle_Neck [SW.AI 공모전(최우수상)]](https://github.com/sunjungAn/Ninja_Turtle)
+[Team Project[SW.AI 공모전(최우수상)]](https://github.com/sunjungAn/Ninja_Turtle)
